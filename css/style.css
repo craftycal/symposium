@@ -15,6 +15,7 @@ h3 {
 
 p {
   margin-top: 0px;
+  color: #3C444C;
 }
 
 main {
@@ -180,10 +181,10 @@ h2 {
 }
 
 .caption {
-  text-align: left;
-  margin-top: 30px;
-  margin-bottom: 0px;
-  font-size: 1em;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 0px;F
+  font-size: 1.5em;
 }
 
 .inner-box {
@@ -231,10 +232,11 @@ h2 {
   margin-top: 10px;
 }
 
-.priceTitle {
-  margin-bottom: 0px;
+.boxTitle {
+  margin-bottom: 10px;
   margin-top: 0px;
   color: #3C444C;
+  text-align: center;
 }
 
 /* Ripple Out */
