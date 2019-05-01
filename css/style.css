@@ -224,7 +224,6 @@ h2 {
 .hvr-ripple-out-good:hover {
   color: #39CCCC;
   border-color: #39CCCC;
-  /* blaa */
 }
 
 .price {
@@ -237,7 +236,7 @@ h2 {
   margin-bottom: 10px;
   margin-top: 0px;
   color: #3C444C;
-  text-align: center;
+  text-align: center !important;
 }
 
 /* Ripple Out */
