@@ -39,3 +39,16 @@
 .timeTable col:first-child {
   width: 80px;
 }
+
+.ticketButton {
+  font-family: Muli, sans-serif;
+  font-size: 24px !important;
+  background-color: #ED8F00 !important;
+  border-color: #ED8F00 !important;
+}
+
+.ticketButton:hover {
+  background-color: #DB5D00 !important;
+  border-color: #DB5D00 !important;
+  cursor: pointer !important;
+}
