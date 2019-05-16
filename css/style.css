@@ -20,6 +20,14 @@
   font-weight: normal;
 }
 
+.normalTextPlayfair {
+  font-family: PlayFair Display;
+  font-style: italic;
+  font-weight: bold;
+  color: #ffffff !important;
+  font-size: 30px;
+}
+
 .smallerText {
   font-size: 24px;
 }
